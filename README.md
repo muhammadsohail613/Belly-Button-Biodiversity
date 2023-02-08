@@ -1,4 +1,4 @@
-# Belly-Button-Biodiversity
+ # Belly-Button-Biodiversity
 
 Build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
@@ -18,7 +18,7 @@ Please view the live file here: https://client.github.io/Belly-Button-Biodiversi
 
   * Use `otu_labels` as the hovertext for the chart.
     
-![bar Chart](images/bar-chart.png)
+# bar Chart
 
 3. Create a bubble chart that displays each sample.
 
@@ -32,13 +32,17 @@ Please view the live file here: https://client.github.io/Belly-Button-Biodiversi
 
   * Use `otu_labels` for the text values.
 
+# Bubble Chart
+
 4. Display the sample metadata, i.e., an individual's demographic information.
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
+# metadata
+
 6. Update all of the plots any time that a new sample is selected.
 
-
+# Guage Chart
 
 * Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
 
@@ -47,10 +51,11 @@ Please view the live file here: https://client.github.io/Belly-Button-Biodiversi
 * Update the chart whenever a new sample is selected.
 
 
-Customization
+# Customization
  
 
 ## Deployment
 
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
 
+# hw
