@@ -32,17 +32,13 @@ Please view the live file here: https://client.github.io/Belly-Button-Biodiversi
 
   * Use `otu_labels` for the text values.
 
-![Bubble Chart](images/bubble-chart.png)
-
 4. Display the sample metadata, i.e., an individual's demographic information.
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-![metadata](images/metadata.png)
-
 6. Update all of the plots any time that a new sample is selected.
 
-![Guage Chart](images/guage-chart.png)
+
 
 * Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
 
@@ -51,11 +47,10 @@ Please view the live file here: https://client.github.io/Belly-Button-Biodiversi
 * Update the chart whenever a new sample is selected.
 
 
-![Customization](images/customization.png)
+Customization
  
 
 ## Deployment
 
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
 
-![hw](Images/hw02.png)
